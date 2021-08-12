@@ -1,0 +1,252 @@
+[[Netgen]]
+arch = "aarch64"
+git-tree-sha1 = "710daa7e2bfff28c4539735c728914a5470f80a3"
+os = "macos"
+
+    [[Netgen.download]]
+    sha256 = "7b80e8cf7757cc33db697318b84ef86556af778ea54881d3cdf4ca4603c20e3d"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.aarch64-apple-darwin.tar.gz"
+[[Netgen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2fd7ccdf345d9519babe388e1dfa2ce8d8754e35"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "f64452c394df0a632b54aafea99f54a00da1eaee1ff6a981fc154978961483ac"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.aarch64-linux-gnu-cxx03.tar.gz"
+[[Netgen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7a26a19d72c2ce66f86b8709f09ee841863832c"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "bd4f6b11f3db7e12bc0f183ba8798748b50c55c2bd838c188c263d4e96387c15"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.aarch64-linux-gnu-cxx11.tar.gz"
+[[Netgen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2c850e58082215ec7b469cccc5f98e28bf7edf0"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "976a585f947ac67db958daf9d88b63cffa2463be2e9be830250995089f24022c"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.aarch64-linux-musl-cxx03.tar.gz"
+[[Netgen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6896962746ec9878677323bbbec1652ca27c6d4"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "3102a63d5bf3895192592e2253d4a2dfb3cae389c0cf80c87d4a2e7d28c70969"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.aarch64-linux-musl-cxx11.tar.gz"
+[[Netgen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "51d6dd7cbab78cf4d32763a8a59edac45097301b"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "80755db6959ac51b9e741cdc0ee90568bc03a3564f2194c8e1f30d890f6b9164"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Netgen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a34bfe629e30d84922691d887aae1a9d5835c60c"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "c516643a3a3a6b99e0659c6162953c72f097efaf00b48d5aea02fab649f154a6"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Netgen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb3460ec332a0f8c8993346c6f5dbd53a1b84b6e"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "c8bce3ad6d199ac4ba5f6d851c47210a782ff5acfb8eb243c68091ef25eb73a4"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Netgen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b3fe00a36c99a0d9b2d2b286e714fa4fac0c2e5f"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "61905df614c4daeacf8072f5252180316b161bc90d81cab86443abb385f0bee4"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Netgen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2ad7608bd6401557f76e28a3a3d8471a96a6dfb7"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "070085b3e57a64fab7cb6b9531cdaca46768421e5f09f432cfde17006980ba54"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Netgen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f28eb9b3a7d93826df89a860084444172751edd0"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "d46391d2db7f2faf90e83d7879b277ed9e97bce31e2d2f2bfaf2465ddc4b858c"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Netgen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e2aa2bc4b69044380cc678eeab364595388aa0f"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "a66798e096961b36d3d783150e0bb93eafce27411376e86bd8a6daf74f67917f"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Netgen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a1aa8712c6cd527a055f8e1605381798768777f1"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "a0bddbdede45a356b53b5094e8870c407747c3da99824764c92da568a6a2bee2"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Netgen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "816d25824e830066433833550fe1473a9360e5a9"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "9f9d9a0e575e019fbe4188e6d216adf4fc7afa403d459dd975a7559d16da3326"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.i686-linux-gnu-cxx03.tar.gz"
+[[Netgen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "71abc9d43ae81959b808a99352ce3e73a52d4805"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "666fbf7b89bdd8ed248a89848038a27c3008316da439554991ce223b8a80483e"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.i686-linux-gnu-cxx11.tar.gz"
+[[Netgen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ccd13c39c3c212fce992e01b35004312b9d6dd19"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "432f295de928b888e6a37c0c482b33c76bd1312095bf45678bfdf867564ce1a0"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.i686-linux-musl-cxx03.tar.gz"
+[[Netgen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5f3dc31f4be4e7347c4a3499840763201ba9247"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "b7dbb3131cecd7b5a403631721506f114c062563700293af8d682f3dcbeefbaf"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.i686-linux-musl-cxx11.tar.gz"
+[[Netgen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "744ab2435d2f22b90958a3d3099f36f04b3f562b"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "e810d6443d19e819addf53a56f9d8800dbfc8d91d58045c612942407f742b14f"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Netgen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0fd6131f93b86d76aaccd183c1ffeaa59e93f48b"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "6942fd2424078c3b9a798e31688fb4693d6f45933b90bf5b71129650a5c0b12f"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Netgen]]
+arch = "x86_64"
+git-tree-sha1 = "3f8cca4cfd5272d537838d66a8a9785a7d336e87"
+os = "macos"
+
+    [[Netgen.download]]
+    sha256 = "30d64e498dffb56bdb44cfa0ab03520d53cdc994db52a0221dc947f701bd6f5d"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.x86_64-apple-darwin.tar.gz"
+[[Netgen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c1822d7ef8d80c7241f4a3f9c70b80ca9cc3a4f6"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "f65731f5431b2fa50ebad8785d1460b6e7d9cf21aae5112213e77eee88521d96"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.x86_64-linux-gnu-cxx03.tar.gz"
+[[Netgen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c1ab04a1f30406c011fee567fee29e9386938d9"
+libc = "glibc"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "eaa55a91cfa7c4ca438dd5c42084d1d6f20108bf1e04ee7b77eabd4dcd3e62d8"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.x86_64-linux-gnu-cxx11.tar.gz"
+[[Netgen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b4b90b23a2fefaca23badce81a74b88645b43be"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "bd5888c57e75200051e750d0554bed8d9ac72f56a3cc4a8d520ad11900da8f52"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.x86_64-linux-musl-cxx03.tar.gz"
+[[Netgen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b292cf793c828a68ebb7f2b1eeacd9658ff6c3ed"
+libc = "musl"
+os = "linux"
+
+    [[Netgen.download]]
+    sha256 = "970966d1bf1cb45007d336bde781f60e1a490d36876a61a826f26e47d617ad18"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.x86_64-linux-musl-cxx11.tar.gz"
+[[Netgen]]
+arch = "x86_64"
+git-tree-sha1 = "57e0aba544a1ef7af1b3deafe3ee8912927bb8a4"
+os = "freebsd"
+
+    [[Netgen.download]]
+    sha256 = "3c889b01654084ec6943d4054e3b77d2ce3c4ff529e17d42feefca8336bee98b"
+    url = "https://github.com/JuliaBinaryWrappers/Netgen_jll.jl/releases/download/Netgen-v1.5.199+0/Netgen.v1.5.199.x86_64-unknown-freebsd.tar.gz"
